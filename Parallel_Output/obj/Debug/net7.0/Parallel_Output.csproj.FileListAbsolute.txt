@@ -1,0 +1,15 @@
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\bin\Debug\net7.0\Parallel_Output.exe
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\bin\Debug\net7.0\Parallel_Output.deps.json
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\bin\Debug\net7.0\Parallel_Output.runtimeconfig.json
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\bin\Debug\net7.0\Parallel_Output.dll
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\bin\Debug\net7.0\Parallel_Output.pdb
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.csproj.AssemblyReference.cache
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.AssemblyInfoInputs.cache
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.AssemblyInfo.cs
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.csproj.CoreCompileInputs.cache
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.dll
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\refint\Parallel_Output.dll
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.pdb
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\Parallel_Output.genruntimeconfig.cache
+C:\Learning\Parallel programing udemy\Parallel_Udemy\Parallel_Output\obj\Debug\net7.0\ref\Parallel_Output.dll
